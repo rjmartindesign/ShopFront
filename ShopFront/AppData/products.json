@@ -1,0 +1,106 @@
+[
+  {
+    "SKU": "A",
+    "Price": 50
+  },
+  {
+    "SKU": "B",
+    "Price": 30
+  },
+  {
+    "SKU": "C",
+    "Price": 20
+  },
+  {
+    "SKU": "D",
+    "Price": 15
+  },
+  {
+    "SKU": "E",
+    "Price": 25
+  },
+  {
+    "SKU": "F",
+    "Price": 35
+  },
+  {
+    "SKU": "G",
+    "Price": 45
+  },
+  {
+    "SKU": "H",
+    "Price": 55
+  },
+  {
+    "SKU": "I",
+    "Price": 65
+  },
+  {
+    "SKU": "J",
+    "Price": 75
+  },
+  {
+    "SKU": "K",
+    "Price": 85
+  },
+  {
+    "SKU": "L",
+    "Price": 95
+  },
+  {
+    "SKU": "M",
+    "Price": 105
+  },
+  {
+    "SKU": "N",
+    "Price": 115
+  },
+  {
+    "SKU": "O",
+    "Price": 125
+  },
+  {
+    "SKU": "P",
+    "Price": 135
+  },
+  {
+    "SKU": "Q",
+    "Price": 145
+  },
+  {
+    "SKU": "R",
+    "Price": 155
+  },
+  {
+    "SKU": "S",
+    "Price": 165
+  },
+  {
+    "SKU": "T",
+    "Price": 175
+  },
+  {
+    "SKU": "U",
+    "Price": 185
+  },
+  {
+    "SKU": "V",
+    "Price": 195
+  },
+  {
+    "SKU": "W",
+    "Price": 205
+  },
+  {
+    "SKU": "X",
+    "Price": 215
+  },
+  {
+    "SKU": "Y",
+    "Price": 225
+  },
+  {
+    "SKU": "Z",
+    "Price": 235
+  }
+]
